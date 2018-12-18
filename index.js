@@ -20,6 +20,7 @@ const whisper = (string) => {
 
 
 const logShout = (string) => {
+  
   console.log(string.toUpperCase());
 }
 
