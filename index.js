@@ -4,7 +4,7 @@ function shout(string) {
 }
 */
 
-const shout = function(string) {
+const shout = (string) => {
   return string.toUpperCase();
 }
 
