@@ -13,3 +13,10 @@ function whisper(string) {
   return string.toLowerCase();
 }
 */
+
+const whisper = (string) => {
+  return string.toLowerCase();
+}
+
+
+
