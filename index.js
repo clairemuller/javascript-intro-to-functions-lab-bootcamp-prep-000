@@ -15,9 +15,9 @@ const logWhisper = (string) => {
 }
 
 const sayHiToGrandma = (string) => {
-  if (string.toLowerCase) {
+  if (string.toLowerCase()) {
     return "I can't hear you!";
-  } if else (string.toUpperCase) {
+  } if else (string.toUpperCase()) {
     return "YES INDEED!";
   } if else (string = "I love you, Grandma.") {
     return ("I love you, too.");
