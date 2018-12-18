@@ -15,10 +15,10 @@ const logWhisper = (string) => {
 }
 
 const sayHiToGrandma = (string) {
-  if (string) {
-    return "I can't hear you!"
-  } if else () {
-    
+  if (string = lowercase) {
+    return "I can't hear you!";
+  } if else (string = uppercase) {
+    return "YES INDEED!";
   } else {
     
   }
