@@ -11,7 +11,7 @@ const logShout = (string) => {
 }
 
 const logWhisper = (string) => {
-  console.log(string.toLowerCase);
+  console.log(string.toLowerCase());
 }
 
 /*
