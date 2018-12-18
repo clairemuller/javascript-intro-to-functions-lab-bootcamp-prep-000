@@ -17,7 +17,9 @@ const logWhisper = (string) => {
 const sayHiToGrandma = (string) {
   if () {
     
-  } else
+  } else {
+    
+  }
 }
 
 
