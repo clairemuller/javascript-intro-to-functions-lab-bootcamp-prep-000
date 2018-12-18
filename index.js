@@ -19,8 +19,8 @@ const sayHiToGrandma = (string) => {
     return "I can't hear you!";
   } if else (string.toUpperCase()) {
     return "YES INDEED!";
-  } if else (string = "I love you, Grandma.") {
-    return ("I love you, too.");
+  } if else (string === "I love you, Grandma.") {
+    return "I love you, too.";
   }
 }
 
